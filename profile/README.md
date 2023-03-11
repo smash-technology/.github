@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://smash.technology/">
-    <img src="https://imgur.com/a/NWG6uA1" alt="Logo" width=180>
+    <img src="https://i.imgur.com/1UfE7GM.png" alt="Logo" width=180>
   </a>
 
   <p align="center">
