@@ -1,3 +1,4 @@
+<br/>
 <p align="center">
   <a href="https://smash.technology/">
     <img src="logo_text.svg" alt="Logo" width=180>
@@ -21,7 +22,7 @@
 
 
 ## Project status
-We are currently in the design phase of our capstone project and will begin development shortly after conducting user tests.
+We are finishing up the design phase of our capstone project and have begun development on our static pages and database tables.
 
 
 ## Our team
