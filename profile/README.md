@@ -42,7 +42,7 @@ Chloe Hu ([LinkedIn](https://www.linkedin.com/in/chloe-hu-a08353198/))\
 Audrey Kho ([LinkedIn](https://www.linkedin.com/in/audrey-kho/))
 
 ## Special thanks
-Nam-ho Park &#8226; Elias Greendorfer &#8226; Gary McMath &#8226; Barry Enderwick
+Nam-ho Park &#8226; Elias Greendorfer &#8226; Gary McMath &#8226; Barry Enderwick &#8226; Peter Carlson
 
 ## Copyright and license
 
