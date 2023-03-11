@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://smash.technology/">
-    <img src="public/assets/logo_text.svg" alt="Logo" width=180>
+    <img src="logo_text.svg" alt="Logo" width=180>
   </a>
 
   <p align="center">
