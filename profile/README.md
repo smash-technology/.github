@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://smash.technology/">
+  <a href="https://smash-technology.vercel.app/">
     <img src="https://i.imgur.com/1UfE7GM.png" alt="Logo" width=180>
   </a>
 
@@ -22,7 +22,7 @@
 
 
 ## Project status
-We are finishing up the design phase of our capstone project and have begun development on our static pages and database tables.
+We are currently developing Smash's main features. Learn more at https://smash-learn.web.app/.
 
 
 ## Our team
